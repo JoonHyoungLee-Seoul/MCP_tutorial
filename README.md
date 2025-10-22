@@ -1,6 +1,44 @@
-# LangGraph MCP RAG Agent Tutorial
+# LangGraph MCP Multi-Agent System
 
-A comprehensive tutorial for building RAG (Retrieval-Augmented Generation) agents using LangGraph and MCP (Model Context Protocol).
+A comprehensive multi-agent system integrating **LangGraph**, **Model Context Protocol (MCP)**, and **Claude 3.5 Sonnet** for intelligent document retrieval, computation, and code execution.
+
+---
+
+## ✅ Project Summary
+
+• **Developed a multi-agent system** with **3 MCP servers** providing **12 specialized tools** for document retrieval, mathematical computation, data visualization, and web search.
+
+• **Integrated LangChain, LangGraph, FastMCP, and Claude 3.5 Sonnet** for intelligent agent orchestration and multimodal task execution.
+
+• **Designed 3 user interfaces** (Streamlit Web UI, Python CLI, Jupyter Notebook) to support different use cases from interactive development to production deployment.
+
+• **Implemented RAG (Retrieval-Augmented Generation)** using FAISS vector store and OpenAI embeddings for context-aware document retrieval.
+
+---
+
+## 🔧 Technologies Used
+
+• **Python**: Core programming language
+
+• **LangChain / LangGraph**: Agent workflow orchestration and ReAct pattern implementation
+
+• **Claude 3.5 Sonnet (Anthropic)**: Advanced LLM for reasoning and natural language understanding
+
+• **FastMCP**: Fast Model Context Protocol server development framework
+
+• **FAISS**: High-performance vector similarity search for RAG
+
+• **OpenAI Embeddings**: Text embedding for semantic document retrieval
+
+• **Streamlit**: Interactive web interface for demonstrations
+
+• **Pandas, NumPy**: Data manipulation and numerical computation
+
+• **Matplotlib**: Data visualization and chart generation
+
+• **Tavily Search API**: Real-time web search integration
+
+---
 
 ## Project Overview
 
